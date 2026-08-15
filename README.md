@@ -20,7 +20,9 @@ An end-to-end marketing analytics project analyzing campaign effectiveness acros
 - A small, verified data anomaly (18 of 35,000 rows) was documented and flagged rather than silently removed, preserving data integrity
 
 ## Dashboard Preview
-*(Screenshot goes here)*
+![Marketing Campaign Dashboard](<img width="1737" height="857" alt="image" src="https://github.com/user-attachments/assets/65243caf-bfb4-4b41-a6c6-7863077606cc" />
+)
+
 
 ## Files in This Repository
 - `campaign_joined_query.sql` — the MySQL LEFT JOIN query used to build the combined dataset
